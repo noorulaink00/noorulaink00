@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/noorulaink00" target="blank"><img src="https://img.shields.io/twitter/follow/noorulaink00?logo=twitter&style=for-the-badge" alt="noorulaink00" /></a> </p>
 
-- 🔭 I’m currently working on **Gym Website**
+- 🔭 I’m currently working on **Medical Website**
 
 - 🌱 I’m currently learning **Open Source Contributions,React and Web3**
 
